@@ -8,4 +8,5 @@ Enjoy the quizzzzzzz
 # live link :
 https://replit.com/@karthikgoud5/mark-2-Automotive-quiz-challenge?embed=1&output=1
 
-<img width="859" alt="image" src="https://user-images.githubusercontent.com/9660782/179362349-fe5535a4-becf-4e03-9219-26dc962031ac.png">
+<img width="415" alt="image" src="https://user-images.githubusercontent.com/9660782/180374928-038ea98d-44f3-494d-8e25-8ccfabb31149.png">
+
