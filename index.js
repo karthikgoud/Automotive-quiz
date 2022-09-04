@@ -4,7 +4,7 @@ const chalk = require("chalk")
 
 // Welcome user message
 
-let userName = readlineSync.question("Enter Username: ").toUpperCase();
+let userName = readlineSync.question("Enter Player name: ").toUpperCase();
 console.log()
 
 console.log("Hello " + chalk.cyanBright.bold(userName) + ", Welcome to " + chalk.blue.bold.underline("Auto Quiz 2022"));
@@ -14,6 +14,7 @@ console.log("All the best...!!!. Let`s begin.");
 console.log()
 console.log(chalk.red("Instruction") + " : Type" + chalk.greenBright.bold(" a/b/c/d ") + " to choose answer.")
 console.log()
+console.log(chalk.red("Points") + ": There is negative one mark for wrong answer. ")
 console.log("----------------------------");
 console.log()
 let score = 0;
