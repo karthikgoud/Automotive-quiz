@@ -1,7 +1,8 @@
-# Automotive-quiz
-Mark-2-Automotive quiz
+# Mark-2-Automotive quiz
 
-Quiz for Automobile enthusiast. Containes 8 questions each carry 1 mark . There is also negative mark -1 for wrong answer.
+Quiz for Automobile enthusiast. Containes 10 questions each carry 1 mark . There is also negative mark -1 for wrong answer.
+
+### Note: Click "run" button to play on top right corner.
 
 Enjoy the quizzzzzzz
 
